@@ -21,7 +21,7 @@ I'm a passionate **software developer** studying at IMSA with interests in **cyb
 - 🔍 **Student Researcher** (May 2025 - Present) | Carnegie Mellon University  
   Exploring YouTube channels in online marketplaces, conducting a longitudinal study over 4000 channels and 3500 users within 2 popular marketplaces. Developing a user-facing dashboard and research paper.
 
-- 💼 **Mobile + Desktop App Developer Intern** (June 2025 - August 2025) | Alchemy Software LLC  
+- 💼 **Mobile + Desktop Software Developer Intern** (June 2025 - August 2025) | Alchemy Software LLC  
   Developed a task-management app using React, Electron JS, and Firebase. Implemented a full-fledged cross-platform notification system from scratch. Bug tested new software & UI with team and participated in code-reviews.
 
 - 💻 **Full-Stack Developer, Peer Tutor Web Development Team** (February 2025 - Present) | IMSA  
