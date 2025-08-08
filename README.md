@@ -19,7 +19,7 @@ I'm a junior studying at IMSA with interests in **cybersecurity** and **artifici
 ## 🚀 Projects & Highlights
 
 - 🔍 **Student Researcher** (May 2025 - Present) | Carnegie Mellon University  
-  Exploring YouTube channels in online marketplaces, conducting a longitudinal study over 4000 channels and 3500 users within 2 popular marketplaces. Developing a user-facing dashboard and research paper.
+  Exploring YouTube channels in online marketplaces, conducting a longitudinal study over 15,000 channels and 1000+ users within 2 popular marketplaces. Developing a user-facing dashboard and research paper.
 
 - 💼 **Mobile + Desktop Software Developer Intern** (June 2025 - August 2025) | Alchemy Software LLC  
   Developed a task-management app using React, Electron JS, and Firebase. Implemented a full-fledged cross-platform notification system from scratch. Bug tested new software & UI with team and participated in code-reviews.
