@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Pranav!
 
-I'm a junior studying at IMSA with interests in **cybersecurity** and **artificial intelligence**. I enjoy building impactful projects and constantly expanding my technical horizons.
+I'm a senior studying at IMSA with interests in **cybersecurity** and **artificial intelligence**. I enjoy building impactful projects and constantly expanding my technical horizons.
 
 ## 💻 Programming Skills
 
